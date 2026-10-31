@@ -5,7 +5,7 @@
 
 ## Link de Acesso a Loja
 **Acesse a loja online em:**
-https://amandaitz89-dev.github.io/Cantinho-dos-Tecidos/
+https://amandaitz89-dev.github.io/Cantinho-dos-Tecidos./
 
 ## Apresentação da Loja
 **Cantinho dos Tecidos** — *Qualidade e variedades para inspirar suas criações.*  
